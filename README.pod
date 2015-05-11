@@ -1,0 +1,9 @@
+=head1 NCIPTESTER
+
+A small script that acts as an NCIP client, to test an NCIP server. 
+
+For more documentation, run: 
+
+  perldoc nciptester.pl
+
+=cut

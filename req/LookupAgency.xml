@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:NCIPMessage ns1:version='http://www.niso.org/schemas/ncip/v2_02/ncip_v2_02.xsd' xmlns:ns1="http://www.niso.org/2008/ncip">
+    <ns1:LookupAgency>
+        <ns1:InitiationHeader>
+            <ns1:FromAgencyId>
+                <ns1:AgencyId>NO-FIXME1</ns1:AgencyId>
+            </ns1:FromAgencyId>
+            <ns1:ToAgencyId>
+                <ns1:AgencyId>NO-FIXME2</ns1:AgencyId>
+            </ns1:ToAgencyId>
+        </ns1:InitiationHeader>
+        <ns1:AgencyId>123</ns1:AgencyId>
+        <ns1:AgencyElementType>FIXME</ns1:AgencyElementType>
+    </ns1:LookupAgency>
+</ns1:NCIPMessage>

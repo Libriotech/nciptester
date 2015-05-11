@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:NCIPMessage ns1:version='http://www.niso.org/schemas/ncip/v2_02/ncip_v2_02.xsd' xmlns:ns1="http://www.niso.org/2008/ncip">
+    <ns1:ItemReceived>
+        <ns1:InitiationHeader>
+            <ns1:FromAgencyId>
+                <ns1:AgencyId>FFL</ns1:AgencyId>
+            </ns1:FromAgencyId>
+            <ns1:ToAgencyId>
+                <ns1:AgencyId>CPL</ns1:AgencyId>
+            </ns1:ToAgencyId>
+        </ns1:InitiationHeader>
+        <ns1:ItemId>
+            <ns1:ItemIdentifierValue>1</ns1:ItemIdentifierValue>
+        </ns1:ItemId>
+        <ns1:DateReceived>2015-04-15T11:20:30</ns1:DateReceived>
+    </ns1:ItemReceived>
+</ns1:NCIPMessage>

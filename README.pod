@@ -6,4 +6,18 @@ For more documentation, run:
 
   perldoc nciptester.pl
 
+=head2 Sample data
+
+The sample requests make some assumptions about your data. Specifically you need:
+
+=over 4
+
+=item * A library with branchcode = CPL
+
+=item * A library with branchcode = FFL
+
+=item * A patron with cardnumber = 52
+
+=back
+
 =cut
